@@ -16,5 +16,11 @@ int main()
         std::cout << element.first << " ";
         std::cout << element.second << " ";
     }
+
+    map<string, int>::iterator itr;
+    for (itr = directory.begin(); itr != directory.end(); itr++)
+    {
+        cout << itr->first << "-" << itr->second << endl;
+    }
     return 0;
 }
