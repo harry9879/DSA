@@ -1,0 +1,12 @@
+# C++
+*.out
+*.exe
+
+# Rust
+target/
+
+# VS Code
+.vscode/
+
+# temp
+*.tmp
