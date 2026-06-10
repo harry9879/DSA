@@ -1,0 +1,12 @@
+{
+  "name": "new_package",
+  "version": "1.0.0",
+  "description": "physical servers vs virtual machines vs containers\r create a free aws accound and a vm to practice\r what docker is and docker architecture\r dockers commands and how to use them\r images and how they are use to create containers\r dockerfile\r docker registry - Build and publish your images\r docker networking\r docker compose\r persisting container data using volumes and blind mount",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
